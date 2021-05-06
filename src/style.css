@@ -1,0 +1,28 @@
+.tulis{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+    font-size: 40px;
+    
+}
+
+.bg{ 
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('./images/wash.jpg');
+background-size: cover;
+background-position: center; 
+width: 1264px;
+height: 700px;
+
+}
+.card{
+margin-left: 20px;
+}
+
+.body{
+    margin-left: 20px;
+    margin-right: 0px;
+    position: relative;
+}
+.Card{
+    color: white;
+}
